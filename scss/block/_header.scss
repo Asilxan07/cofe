@@ -1,0 +1,22 @@
+.siteheader__box{
+  width: 1200px;
+  height: 66px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.siteheader__list{
+  width: 283px;
+  height: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.siteheader__link{
+  color: rgb(131, 136, 143);
+font-family: Barlow;
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+}
